@@ -1,6 +1,6 @@
 # handson-10-MachineLearning-with-MLlib.
 
-#  Customer Churn Prediction with PySpark MLlib
+#  Customer Churn Prediction with MLlib
 
 This project uses Apache Spark MLlib to predict customer churn based on structured customer data. You will preprocess data, train classification models, perform feature selection, and tune hyperparameters using cross-validation.
 
